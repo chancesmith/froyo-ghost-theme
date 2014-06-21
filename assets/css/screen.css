@@ -898,7 +898,7 @@ main {
         -moz-box-sizing: border-box;
         box-sizing: border-box;
         height: auto;
-        min-height: 240px;
+        min-height: 307px;
     }
 
     h1.blog-title, .home-template h1.blog-title {
@@ -958,7 +958,7 @@ main {
 @media only screen and (max-width: 600px) {
 
     .home-template .header-container, .home-template .site-head {
-        height: 240px;
+        height: 307px;
     }
 
     .blog-logo img {
