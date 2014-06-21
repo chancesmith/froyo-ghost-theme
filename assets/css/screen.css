@@ -491,6 +491,10 @@ main {
     height: 307px;
 }
 
+.header-img {
+    width: 125px;
+}
+
 .home-template .header-container, .home-template .site-head {
     height: 400px;
 }
